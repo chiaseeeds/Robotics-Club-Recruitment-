@@ -5,7 +5,7 @@
 ### 你在本次任务中使用了哪些 Git 或 GitHub 功能？
 这次任务主要使用了 GitHub 仓库管理功能：
 - 创建和管理 GitHub Repository
-- 创建 topic、slides 文件夹；
+- 创建 topic、slides 文件夹
 - 创建和编辑 Markdown（.md）文件
 - 上传 PPT、PDF文件
 - 使用 Commit changes 来保存和提交文件修改
